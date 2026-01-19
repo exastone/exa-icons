@@ -108,6 +108,9 @@
         "powershell": {
             "iconPath": "./dark/powershell.svg"
         },
+        "jinja": {
+            "iconPath": "./dark/jinja.svg"
+        },
         "file-light": {
             "iconPath": "./light/default-file.svg"
         },
@@ -209,7 +212,8 @@
         "sqlite": "sqlite",
         "tf": "terraform",
         "tfvars": "terraform-tfvars",
-        "ps1": "powershell"
+        "ps1": "powershell",
+        "j2": "jinja"
     },
     "fileNames": {
         "Makefile": "makefile",

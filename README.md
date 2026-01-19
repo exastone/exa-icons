@@ -1,5 +1,10 @@
 # Exa Icons • an icon pack for vscode
 
+**New in 0.1.7**
+
+Icon variant added for Jinja template file (.j2)
+
+
 **New in 0.1.6**
 
 Icon variant added for Terraform variables file (.tfvars)
